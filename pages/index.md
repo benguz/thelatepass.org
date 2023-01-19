@@ -1,13 +1,14 @@
 ---
-title: Changing global healthcare using open source principles
-description: The One Fact Foundation is on a mission to change global health care using open source principles.
+title: Changing education through students, not policy.
+description: The One Fact Foundation is on a mission to change global health care and education using open source principles.
 ---
 
 {% section .hero %}
 
 {% typewriter /%}
 
-> Vision: Convenient, easy, and free healthcare for every person on the planet by 2030. Here's what we are building to make this a reality:
+> Try Doorstops, our resources directly for students that grow their agency, self-esteem, and belonging: from how to ask for an extension to how to change school culture.
+
 
 {% /section %}
 
@@ -21,9 +22,9 @@ description: The One Fact Foundation is on a mission to change global health car
 
   {% item %}
 
-  ### Payless Health {% .jumbo %}
+  ### Learning, Leveraged
 
-  [Payless.health](https://payless.health) is a search engine and open database of all hospital prices in the United States. We are currently running a [data bounty](https://www.dolthub.com/blog/2022-10-28-announcing-hospital-urls/) and paying up to $10,000 for help collecting this data that is public by federal law.
+  A school can’t meet every student’s needs, especially in under-resourced districts with overburdened educators. The One Fact Foundation has traveled nationwide, speaking 1:1 with over 150 students, teachers, and education professionals to understand how students can fight for their own needs.
 
   {% /item %}
 
@@ -31,9 +32,9 @@ description: The One Fact Foundation is on a mission to change global health car
 
   {% item %}
 
-  ### ClinicalBERT {% .jumbo %}
+  ### Doorstops {% .jumbo %}
 
-  [ClinicalBERT](https://arxiv.org/abs/1904.05342) is the AI algorithm that powers Payless Health and our collaborations with academic medical centers, hospitals, and research consortia.
+  Students have more power than they think. They have opportunities to be successful in school beyond the work, get grades, graduate binary, 
 
   {% /item %}
 
@@ -41,9 +42,9 @@ description: The One Fact Foundation is on a mission to change global health car
 
   {% item %}
 
-  ### Data Thinking {% .jumbo %}
+  ### Classroom interventions {% .jumbo %}
 
-  [Data Thinking](https://datathinking.org) is a course we're building with our institutional partners to increase equity and access to artificial intelligence, machine learning, and data science education around the world.
+  Student-teacher trust is one of the few factors shown to impact everything from attendance to teacher retention, even when controlled for socioeconomic status. But all research on trust so far is correlational: there are no defined practices on how to build it. While the teacher is understood to have a large role in building STRs, the student’s agency in the trust-building process is unexplored. We're changing that. [Participate!](/intervention.md)
 
   {% /item %}
 

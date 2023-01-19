@@ -22,7 +22,7 @@ export function TopNav({ children }) {
           <Link href="/" className="flex">
     {/* OFF Logo here*/}
           <svg title="onefact.org" width="200"
-        height="112" fill="none"
+        height="78" fill="none"
         enableBackground="new 0 0 1197.5 507.5" version="1.1" viewBox="0 0 1197.5 507.5" xmlns="http://www.w3.org/2000/svg">
         <polygon
           fillRule="evenodd"
@@ -174,7 +174,7 @@ export function TopNav({ children }) {
             align-items: center;
             justify-content: space-between;
             border-bottom: 1px solid var(--dark);
-            padding: 1rem 2rem 1.1rem;
+            padding: 0.8rem 2rem 0.7rem;
             font-size: 15px;
             font-family: var(--sans);
           }

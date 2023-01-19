@@ -4,20 +4,20 @@ import Link from 'next/link';
 
 const items = [
   {
-    title: 'Vision',
+    title: 'Leveraged',
     links: [
-      { href: '/mission', children: 'What is our mission?' },
-      { href: '/docs/getting-started', children: 'Installation' },
-      { href: '/docs/faq', children: 'FAQ' },
-      { href: '/sandbox', children: 'Try it out' }
+      { href: '/doorstops', children: 'Mission' },
+      { href: '/realities', children: 'Realities' },
+      { href: '/report', children: 'Agency' },
+      { href: '/yuh', children: 'Yuh' }
     ]
   },
   {
-    title: 'Projects',
+    title: 'Doorstops: How to...',
     links: [
-      { href: '/projects/payless-health', children: 'Payless Health' },
-      { href: '/projects/clinicalbert', children: 'ClinicalBERT' },
-      { href: '/projects/data-thinking', children: 'Data Thinking' },
+      { href: '/doorstops/extension', children: 'Ask for an extension' },
+      { href: '/doorstops/getout', children: 'Take a break' },
+      { href: '/doorstops/mentor', children: 'Find a mentor' },
     ]
   },
 ];
