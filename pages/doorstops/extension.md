@@ -2,8 +2,7 @@
 title: How to ask for an extension
 description: 
 ---
-
-{% section .value-props %}
+&nbsp;
 
 # How to ask for an extension
 
