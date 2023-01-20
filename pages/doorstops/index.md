@@ -48,7 +48,7 @@ Students.
 
 Without students, there is no school. 
 
-If you idiots all walked out tomorrow and said you wouldn't come back until the disgusting fucking bathrooms were fixed, they would get fixed. If you went on strike for a week telling the school to hire more social workers, they would.
+If you idiots all walked out tomorrow and said you wouldn't come back until the disgusting bathrooms were fixed, they would get fixed. If you went on strike for a week telling the school to hire more social workers, they would.
 
 If you just want to do better in class, be less stressed, or even eat better food for lunch YOU HAVE SMALL, POWERFUL WAYS TO ACHIEVE THAT THAT, TOO.
 
