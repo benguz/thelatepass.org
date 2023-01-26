@@ -7,7 +7,7 @@ description: The One Fact Foundation is on a mission to change global health car
 
 {% typewriter /%}
 
-> Try Doorstops, our resources directly for students that grow their agency, self-esteem, and belonging: from how to ask for an extension to how to change school culture.
+> Try Doorstops, our resources directly for students that grow their agency, self-esteem, and belonging: from how to ask for an extension to how to change school culture. [Reach out!](mailto:ben@onefact.org)
 
 
 {% /section %}
@@ -22,9 +22,9 @@ description: The One Fact Foundation is on a mission to change global health car
 
   {% item %}
 
-  ### Learning, Leveraged
+  ### Learning, Leveraged {% .jumbo %}
 
-  A school can’t meet every student’s needs, especially in under-resourced districts with overburdened educators. The One Fact Foundation has traveled nationwide, speaking 1:1 with over 150 students, teachers, and education professionals to understand how students can fight for their own needs.
+  A school can’t meet every student’s needs, especially in under-resourced districts with overburdened educators. The One Fact Foundation has [traveled nationwide](/pdfs/Leveraged.pdf), speaking 1:1 with over 150 students, teachers, and education professionals to understand how students can fight for their own needs.
 
   {% /item %}
 
@@ -34,7 +34,7 @@ description: The One Fact Foundation is on a mission to change global health car
 
   ### Doorstops {% .jumbo %}
 
-  Students have more power than they think. They have opportunities to be successful in school beyond the work, get grades, graduate binary, 
+  Building trust, showing up more, and using phones less are powerful ways to kick-start success, and each is under the student’s control. In Doorstops, our text, video, & experiential resources, we show kids how to leverage all three as bargaining chips to meet their own needs.
 
   {% /item %}
 
@@ -44,7 +44,7 @@ description: The One Fact Foundation is on a mission to change global health car
 
   ### Classroom interventions {% .jumbo %}
 
-  Student-teacher trust is one of the few factors shown to impact everything from attendance to teacher retention, even when controlled for socioeconomic status. But all research on trust so far is correlational: there are no defined practices on how to build it. While the teacher is understood to have a large role in building STRs, the student’s agency in the trust-building process is unexplored. We're changing that. [Participate!](/intervention.md)
+  Student-teacher trust is one of the few factors shown to impact everything from attendance to teacher retention, even when controlled for socioeconomic status. But all research on trust so far is correlational: there are no defined practices on how to build it. We're changing that, with students leading the way. [Participate!](/intervention.md)
 
   {% /item %}
 

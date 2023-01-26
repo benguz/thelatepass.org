@@ -141,9 +141,9 @@ export default function MyApp(props) {
         Skip to content
       </a>
       <TopNav>
-        <Link href="/doorstops">Mission</Link>
+        <Link href="/mission">Mission</Link>
         <Link href="/team">Team</Link>
-        <Link href="https://twitter.com/onefact_org">YouTube</Link>
+        <Link href="https://twitter.com/onefact_org">Twitter</Link>
         <Link href="https://www.instagram.com/onefactfoundation/">Instagram</Link>
         {/* <span className="primary no-mobile">
           <Link href="/give">Give</Link>
