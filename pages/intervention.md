@@ -3,6 +3,9 @@ title: Research-backed intervention
 description: Our vision.
 ---
 
+{% section .value-props %}
+
+
 &nbsp;
 
 # Interventions, reflection, and agency
@@ -64,6 +67,6 @@ To determine whether the intervention strengthened STRs (the second research que
 
 This work does not fit neatly into existing typologies of student voice or student-led education. The goal is not only empowering students to work through their school’s existing power dynamic, but to subvert it, with students setting new boundaries for themselves in and around their classrooms. Where a student-led classroom involves a teacher sitting in the back of a class while students present content to their peers or a student joining school board meetings, this research tests the efficacy of students as active negotiators in their space, time, and responsibilities.
 
-
+{% section %}
 
 
