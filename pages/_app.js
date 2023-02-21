@@ -21,8 +21,8 @@ import 'codemirror/lib/codemirror.css';
 
 import '../public/globals.css';
 
-const TITLE = 'One Fact';
-const DESCRIPTION = 'Our mission is to change global healthcare using open source principles.';
+const TITLE = 'The Late Pass';
+const DESCRIPTION = 'Our mission is to change global education using open source principles.';
 const MARKDOC = `
 
 
@@ -122,18 +122,18 @@ export default function MyApp(props) {
         <meta name="title" content={title} />
         <meta name="description" content={description} />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://markdoc.dev" />
+        <meta property="og:url" content="https://thelatepass.org" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         <meta
           property="og:image"
-          content="https://markdoc.dev/images/share.png"
+          content="https://thelatepass.org/logo.png"
         />
         <meta name="twitter:card" content="summary" />
-        <meta
+        {/* <meta
           name="twitter:image"
-          content="https://markdoc.dev/images/share.png"
-        />
+          content="https://thelatepass.org/logo.png"
+  /> */}
         <script defer data-domain="onefact.org" src="https://plausible.io/js/script.js"></script>
       </Head>
       {/* https://webaim.org/techniques/skipnav/ */}
@@ -142,8 +142,8 @@ export default function MyApp(props) {
       </a>
       <TopNav>
         <Link href="/mission">Mission</Link>
+        <Link href="/doorstops">Doorstops</Link>
         <Link href="/team">Team</Link>
-        <Link href="https://twitter.com/onefact_org">Twitter</Link>
         <Link href="https://www.instagram.com/onefactfoundation/">Instagram</Link>
         {/* <span className="primary no-mobile">
           <Link href="/give">Give</Link>
