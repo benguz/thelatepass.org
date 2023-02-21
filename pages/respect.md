@@ -3,6 +3,8 @@ title: Respecting and Protecting Students
 description: How the One Fact Foundation chooses schools to partner with and protects student data!
 ---
 
+&nbsp;
+
 {% section .value-props %}
 
 ## Respecting and Protecting Students

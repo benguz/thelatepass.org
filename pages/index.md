@@ -44,7 +44,7 @@ description: The One Fact Foundation is on a mission to change global health car
 
   ### Classroom interventions {% .jumbo %}
 
-  Student-teacher trust is one of the few factors shown to impact everything from attendance to teacher retention, even when controlled for socioeconomic status. But all research on trust so far is correlational: there are no defined practices on how to build it. We're changing that, with students leading the way. [Participate!](/intervention.md)
+  Student-teacher trust is one of the few factors shown to impact everything from attendance to teacher retention, even when controlled for socioeconomic status. But all research on trust so far is correlational: there are no defined practices on how to build it. We're changing that, with students leading the way. [Participate!](/intervention)
 
   {% /item %}
 

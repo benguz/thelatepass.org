@@ -6,10 +6,9 @@ const items = [
   {
     title: 'Leveraged',
     links: [
-      { href: '/doorstops', children: 'Mission' },
-      { href: '/realities', children: 'Realities' },
-      { href: '/report', children: 'Agency' },
-      { href: '/yuh', children: 'Yuh' }
+      { href: '/doorstops', children: 'Realities' },
+      { href: '/pdfs/Leveraged.pdf', children: 'Agency' },
+      { href: '/stuco', children: 'Leadership'}
     ]
   },
   {
@@ -18,6 +17,7 @@ const items = [
       { href: '/doorstops/extension', children: 'Ask for an extension' },
       { href: '/doorstops/getout', children: 'Take a break' },
       { href: '/doorstops/mentor', children: 'Find a mentor' },
+      { href: '/doorstops/listen', children: 'Listen and change' }
     ]
   },
 ];
