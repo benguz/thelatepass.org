@@ -126,8 +126,8 @@ export default function MyApp(props) {
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         <meta
-          property="og:image"
-          content="https://thelatepass.org/logo.png"
+          /*property="og:image"
+          content="https://thelatepass.org/logo.png" */
         />
         <meta name="twitter:card" content="summary" />
         {/* <meta
