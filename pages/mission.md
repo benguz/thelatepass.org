@@ -26,7 +26,7 @@ description: Our vision.
 ### 2025: Top secret.
 
 
-Read the [full report](/pdfs/Leveraged.pdf)
+Read the [full report](/pdfs/leveraged.pdf)
 
 Excited about solving student powerlessness? Want us to work hands-on with your school to design free, open source resources? [Reach out!](mailto:ben@onefact.org)
 

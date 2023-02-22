@@ -24,7 +24,7 @@ description: The One Fact Foundation is on a mission to change global health car
 
   ### Learning, Leveraged {% .jumbo %}
 
-  A school can’t meet every student’s needs, especially in under-resourced districts with overburdened educators. The One Fact Foundation has [traveled nationwide](/pdfs/Leveraged.pdf), speaking 1:1 with over 150 students, teachers, and education professionals to understand how students can fight for their own needs.
+  A school can’t meet every student’s needs, especially in under-resourced districts with overburdened educators. The One Fact Foundation has [traveled nationwide](/pdfs/leveraged.pdf), speaking 1:1 with over 150 students, teachers, and education professionals to understand how students can fight for their own needs.
 
   {% /item %}
 
@@ -34,7 +34,7 @@ description: The One Fact Foundation is on a mission to change global health car
 
   ### Doorstops {% .jumbo %}
 
-  Building trust, showing up more, and using phones less are powerful ways to kick-start success, and each is under the student’s control. In Doorstops, our text, video, & experiential resources, we show kids how to leverage all three as bargaining chips to meet their own needs.
+  Building trust, showing up more, and using phones less are powerful ways to kick-start success, and each is under the student’s control. In [Doorstops](/doorstops), our text, video, & experiential resources, we show kids how to leverage all three as bargaining chips to meet their own needs.
 
   {% /item %}
 

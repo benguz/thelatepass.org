@@ -11,4 +11,4 @@ description: Read the report!
 
 ## They didn’t know. We gave them space to reflect: they had ideas. We taught them agency: they fought for change.
 
-[Read the report](/pdfs/Leveraged.pdf)
+[Read the report](/pdfs/leveraged.pdf)
