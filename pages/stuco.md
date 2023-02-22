@@ -6,7 +6,7 @@ description: How the One Fact Foundation chooses schools to partner with and pro
 
 {% section .value-props %}
 
-# Leadership Therapy: A playbook for changing your school.
+# Chief Student: A playbook for changing your school.
 
 Most student councils feel like party planning committees. 
 
@@ -31,7 +31,7 @@ Here's our playbook.
 ---
 
 - *Acting on unmet needs with SEL strategies*
-- Negotiation and self advocacy 101
+- Negotiation and self advocacy 101, plus running trust-building interventions
 - [Find promises](/takingsteps) your administration has made to the school board. Nudge them to stay on track
 
 ---

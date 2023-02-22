@@ -51,3 +51,39 @@ description: The One Fact Foundation is on a mission to change global health car
 {% /table %}
 
 {% /section %}
+
+{% section .get-started %}
+
+{% side-by-side %}
+
+{% item %}
+
+## Get started quickly {% .jumbo %}
+
+[Markdoc core](https://github.com/markdoc/markdoc) is a lightweight package containing everything you need to get started. If you want to get going even faster, check out our [Next.js plugin](https://github.com/markdoc/next.js) and deploy a Markdoc documentation site with zero boilerplate.
+
+[Explore documentation](/docs/getting-started) {% .primary %}
+
+[Live edit]() {% .primary %} 
+
+{% /item %}
+
+![logo](/images/edcover.png)
+
+{% /side-by-side %}
+
+{% /section %}
+
+{% section .by-stripe %}
+
+{% side-by-side %}
+
+### Text {% .jumbo %}
+
+Text.
+
+{% /side-by-side %}
+
+---
+
+
