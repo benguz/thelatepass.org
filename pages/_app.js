@@ -22,7 +22,7 @@ import 'codemirror/lib/codemirror.css';
 import '../public/globals.css';
 
 const TITLE = 'The Late Pass';
-const DESCRIPTION = 'Our mission is to change global education using open source principles.';
+const DESCRIPTION = 'Inspiring student agency nationwide using research-tested strategies';
 const MARKDOC = `
 
 
@@ -144,7 +144,7 @@ export default function MyApp(props) {
       </a>
       <TopNav>
         <Link href="/mission">Mission</Link>
-        <Link href="/doorstops">Doorstops</Link>
+        <Link href="/leveraged">Doorstops</Link>
         <Link href="/team">Team</Link>
         <Link href="https://www.instagram.com/onefactfoundation/">Instagram</Link>
         {/* <span className="primary no-mobile">

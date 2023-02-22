@@ -23,35 +23,7 @@ I (and all my friends in high school) would have never thought to ask for an ext
 
 4. Why not give yourself a little more control over what you have to do for school?
 
-
-## Contents, kind of.
-
-I am . . .
-
-[Ready to ask for an extension—I just don’t know how](#i-just-want-to-email)
-Emailing
-Asking in person
-What to do if you are asking too late
-
-Panicking about the assignment itself
-
-Worried that my teacher won’t understand or take me seriously
-
-Worried that I might lose my temper
-
-Not sure how to explain that I need this for my mental health
-
-Not someone who’s ever needed an extension or needed help
-
-Scared
-
-Convinced that school sucks
-
-Definitely going to need more than an extension to fix this train wreck
-
-Worried that my teacher will say no
-
-Just tell me what I need to do!
+## Ingredients
 
 There are certain ingredients that will make your extension request more likely to be successful. If you have all of them, then you’re in good shape—barring, of course, strict and unpleasant teachers. If you don’t, then you might have to try some of our alternate methods!
 
