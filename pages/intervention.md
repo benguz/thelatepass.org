@@ -6,8 +6,6 @@ description: Our vision.
 {% section .value-props %}
 
 
-&nbsp;
-
 # Interventions, reflection, and agency
 
 We believe increasing student agency—helping kids identify and advocate for their needs—can reduce their anxiety, build their self esteem, and empower them to better shape their learning environment. The goal of this first iteration of our intervention is to begin establishing replicable practices for increasing student agency. The resources and intervention script will be free and open source. 
