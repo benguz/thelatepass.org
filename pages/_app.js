@@ -126,14 +126,14 @@ export default function MyApp(props) {
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         <meta
-          /*property="og:image"
-          content="https://thelatepass.org/logo.png" */
+          property="og:image"
+          content="https://thelatepass.org/og-image.jpg"
         />
         <meta name="twitter:card" content="summary" />
-        {/* <meta
+        {<meta
           name="twitter:image"
-          content="https://thelatepass.org/logo.png"
-  /> */}
+          content="https://thelatepass.org/og-image.jpg"
+  /> }
         <script defer data-domain="onefact.org" src="https://plausible.io/js/script.js"></script>
       </Head>
       {/* https://webaim.org/techniques/skipnav/ */}
