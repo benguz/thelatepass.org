@@ -134,6 +134,8 @@ export default function MyApp(props) {
           name="twitter:image"
           content="https://thelatepass.org/og-image.jpg"
   /> }
+    <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
         <script defer data-domain="onefact.org" src="https://plausible.io/js/script.js"></script>
       </Head>
       {/* https://webaim.org/techniques/skipnav/ */}
