@@ -85,7 +85,7 @@ Did anyone ever ask you for input? Feedback? Give you time to reflect on school?
 
 Imagine being forced to stay at a job for the rest of your life... before you've even had your first day. You've been rammed through 8 years of school without anybody asking you how you feel about it! Wouldn't there maybe be some useful change if they did?
 
-We did. We've had 80 one-on-one conversations with high school students in 15 states, and we're looking to have more. If you want us to develop a Doorstop for you, we'll make it happen. We've got a network of hostage negotiators, professional chefs, cancer survivors, and frustrated, curious students eager to help. Reach out to ben@onefact.org.
+We did. We've had 80 one-on-one conversations with high school students in 15 states, and we're looking to have more. If you want us to develop a Doorstop for you, we'll make it happen. We've got a network of hostage negotiators, professional chefs, helicopter salesmen, and frustrated, curious students eager to help. Reach out to ben@onefact.org.
 
 ## Reformers want to create more good classrooms. They don't help kids stuck in bad ones.
 

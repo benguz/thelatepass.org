@@ -7,7 +7,7 @@ const items = [
     title: 'Leveraged',
     links: [
       { href: '/doorstops', children: 'Realities' },
-      { href: '/pdfs/Leveraged.pdf', children: 'Agency' },
+      { href: '/pdfs/leveraged.pdf', children: 'Agency' },
       { href: '/stuco', children: 'Leadership'}
     ]
   },
