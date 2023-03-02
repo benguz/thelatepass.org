@@ -1,12 +1,12 @@
 ---
-title: Leadership Therapy
+title: Flipping the bargaining table 
 description: How the One Fact Foundation chooses schools to partner with and protects student data!
 ---
 
 
 {% section .value-props %}
 
-# Chief Student: A playbook for changing your school.
+# Flipping the bargaining table: how to change your school.
 
 Most student councils feel like party planning committees. 
 
