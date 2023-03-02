@@ -41,3 +41,5 @@ Here's our playbook.
 - Getting clubs, sports teams, and parents on board, plus support from a nationwide community of student leaders pushing for the same changes
 
 {% /table %}
+
+{% `Scaffolded identification and advocacy (choosing from a list of needs, strategies) -> indep. ` %}

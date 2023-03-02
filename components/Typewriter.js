@@ -85,7 +85,7 @@ function Type({ text, onEnd }) {
 }
 
 const text =
-  'Building community in schools nationwide by centering mental health.';
+  'Inspiring student agency nationwide using research-tested strategies.';
 
 export function Typewriter() {
   const [state, setState] = React.useState(0);

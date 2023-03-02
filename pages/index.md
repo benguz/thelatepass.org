@@ -7,8 +7,11 @@ description: The One Fact Foundation is on a mission to change global health car
 
 {% typewriter /%}
 
-> Try Doorstops, our resources directly for students that grow their agency, self-esteem, and belonging: from how to ask for an extension to how to change school culture. [Reach out!](mailto:ben@onefact.org)
+> Try Doorstops, our resources directly for students that grow their agency, self-esteem, and belonging: from how to ask for an extension to how to change school culture. 
 
+[Learn more](/changes) {% .primary %}
+
+[Reach out!](mailto:ben@onefact.org) {% .primary %}
 
 {% /section %}
 
