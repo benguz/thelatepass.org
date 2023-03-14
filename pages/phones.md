@@ -8,7 +8,11 @@ description: Bringing students to the bargaining table
 
 # Reduce phone use by authorizing student perspectives
 
-Chronic phone use is not a policy problem. It's possible to wrangle every teacher into agreement and crack down unilaterally on usage, but there's a better way. You’re asking students to give up phones, what do they want in exchange? **When students are involved in the decision-making process, they are more likely to accept the change**—and when they feel heard, they'll start voicing anxieties, frustrations, and opportunities for growth.[^1](#^1)
+
+![bus](/images/bus.jpg)
+_We've got a handful of doorstops in our backpack, and we're asking students and educators what to prop open._
+
+Chronic phone use is not a policy problem. You _could_ wrangle every teacher into cracking down on usage, but there's a better way. You’re asking students to give up phones, what do they want in exchange? **When students are involved in the decision-making process, they are more likely to accept the change**—and when they feel heard, they'll start voicing anxieties, frustrations, and opportunities for growth.[^1](#^1)
 
 Getting an actionable, feasible response is hard: most students either don’t know how to change school at first, or their suggestions sound more like “Shorter days!” or “Better food!” than “More class time when we don’t have to sit at our desks!” or “A lower student-counselor ratio!” But fostering safe, reflective spaces for students to think about their school experiences and what they’d change is essential:
 
@@ -47,8 +51,6 @@ We facilitate these conversations at no cost to schools.
 {% `Amer. Samoa and the tree example in contrast to Durham cutting down trees. ` %}
 
 
-![bus](/images/bus.jpg)
-_We've got a handful of doorstops in our backpack, and we're asking students and educators what to prop open._
 
 &nbsp;
 
