@@ -7,9 +7,9 @@ description: ext
 # How to ask for an extension
 
 ## Extension = Extra Time. You might need it.
-[Jump to an email template!](#i-just-want-to-email)
+[Jump to an email template!](#i-just-want-to-email-.-.-.)
 
-You'll usually get an extension  if you're out sick for a few days, but **that's not even close to the only reason you can't do your homework on time.**
+You'll usually get an extension if you're out sick for a few days, but **that's not even close to the only reason you can't do your homework on time.**
  
 Sometimes the homework is just really confusing. Or you’re super busy. Or you’ve been helping your family clean out the house or shuttle siblings around. Or you’re completely exhausted. 
  
@@ -29,15 +29,15 @@ I (and all my friends in high school) would have never thought to ask for an ext
 
 You need a few ingredients for a tasty, or, um, successful extension request. 
 
-**Ingredient #1:** Teachers like it when you ask for this stuff in person. That way they'll know you're being genuine and can trust you to actually _do_ the assignment. If this idea makes you want to crawl under a desk and hide, then you can always [send an email](#i-just-want-to-email) instead.
+**Ingredient #1: Ask in person.** Teachers will know you're being genuine and you'll have more respect for each other. If this makes you want to crawl under a desk and hide, you can always [send an email](#i-just-want-to-email-.-.-.) instead. [Ready to ask?](#how-do-i-ask-in-person)
 
-[I'm ready to ask in person!](#how-do-i-ask-in-person)
+**Ingredient #2: ask BEFORE the due date.** If you ask an hour before the work is due, even the nicest teachers will roll their eyes. [If you have a strict teacher](#my-teacher-doesnt-respect-me) (you know, the one with one squinty eye who is vocally counting down the years to retirement?), then you’d better give a few-days’ warning. If you’re like “oh, SHIT, my paper is due TODAY (or yesterday, or a week ago),” [read this](#what-if-it's-due-today-(or-yesterday-or-last-week)).
 
-**Ingredient #2:** You need to ask for an extension BEFORE the due date—if you ask an hour before it's due, even the nicest teachers will roll their eyes. If you have a strict teacher (you know, the one with one squinty eye who is vocally counting down the years to retirement?), then you’d better give a few-days’ warning on your extension request. If you’re like “oh, SHIT, my paper is due TODAY (or yesterday, or a week ago),” [read this](#what-if-my-assignment-is-due-today-or-yesterday-or-last-week).
+**Ingredient #3: know how much time you need.** You might only get one or two days, but you should always ask for an extension that will actually make a difference. If you need another week, ask for need another week. Be open to negotiating.
 
-**Ingredient #3:** You’ll have to explain to your teacher why you need an extension. To do this, you’ll need reasoning that isn’t too vague and dismissive (“I just need more time”) but that also isn’t a ten-page sob story (“oh my god Mrs. Parker, my dog died last week and my aunt is in the hospital and I’m having a mental health crisis and I have FOUR exams this week and . . .”). If your reason for needing an extension is anything like that of Mrs. Parker’s student, then your problem will not be solved with a 24-hour extension. Instead, think about getting some more serious academic support [link to “uh . . . I don’t think an extension will fix this” bit]. 
+**Ingredient #4: explain WHY you need it** You’ll need reasoning that isn’t too vague and dismissive (“I just need more time”) but that also isn’t a ten-page sob story (“oh my god Mrs. Parker, my dog died last week and my aunt is in the hospital and I’m having a mental health crisis and I have FOUR exams this week and . . .”). If your reason for needing an extension is anything like that, an extension won't save you 24-hour extension. Instead, think about getting some [more serious academic support](#what-if-it's-due-today-(or-yesterday-or-last-week)). 
 
-Missing some ingredients? We've still [got you covered](#what-if-they-say-no). Strict teacher? [Been there](#my-teacher-doesnt-respect-me).
+Missing some ingredients? We've still [got you covered](#what-if-they-say-no).
 
 ## I just want to email . . .
 
@@ -88,10 +88,36 @@ Tell them how far along you are with the assignment (if you’ve started), and a
 Step 3: Present yourself as calm and confident. If you’re one of those students who normally slouches through the hallways, rolls their eyes at everything the teacher says, etc., don’t do that. Play the game: you know what it is that teachers want to see (decent posture, eye contact, calm), and you’ve probably seen other students present themselves that way. When you want something from a teacher, it’s worthwhile to pretend for a few minutes that the teacher’s class is important to you. All it is is a game: in return for extra time on your homework, you’re giving the teacher your focus and respect. Read [what if they say no] if you’re worried you might abandon the part when your teacher says something annoying.
 
 
-## What if my assignment is due today (or yesterday? or last week??)
+## What if it's due today (or yesterday? or last week??)
+
+If you’re asking for an extension on the day of, or even later, then you’re coming to a bargaining table with no chips. This is no reason to panic—it just means that you’ll have to work with your teacher slightly differently. Here are a few paths you can take:
+
+**1.** Ask your teacher for advice. Talking to your teachers doesn’t have to be a combat situation—in a lot of cases, it’s perfectly reasonable to just explain your situation and ask what you can do to make it better. Be straight with them. Most teachers will recognize that you genuinely want to find a solution, and will meet you on your level.
+
+**2.** If you’ve partially completed the assignment, turn in what you’ve done. Then ask for an extension on the rest of it. This gives you a way to bring at least one chip to the table!
+
+**3.** If the assignment is worth a lot of points, you can ask your teacher to adjust its weight on your final grade. Reactions to this idea will depend on the teacher, but it’s worth a shot if you’re worried about how much a late grade will affect your success in the class. This conversation might look like:
+
+&nbsp;
+
+```
+"Success in this class is important to me: I've enjoyed learning the material, and doing well on exams and assignments is rewarding, it lets me show what I know. 
+```
+
+```
+Would it be possible to decrease the # of points/percentage this assignment is worth, and put more weight on [assignment you did well on/hope to do well on]?
+```
+
+```
+Completing this assignment was a high priority, but I couldn't because [short reason, eg "a personal issue" is the minimum you need].”
+```
+
+&nbsp;
+
+(If the language is more sophisticated than something your teacher would believe you wrote, make it your own... and add 1-2 typos.)
 
 
-## I don’t know how the hell to do this assignment
+## I don’t know how the hell to do this
 
 So I’ve looked at this assignment, I’ve thought about it, and I might as well just burn it because the instructions are gibberish.
 
@@ -119,7 +145,7 @@ If you ask for an extension seriously (without a cocky grin or the posture of a 
  
 Also—there’s always the possibility that your teacher actually will understand.
  
-
+**consolidate these two sections**
 
 ## I don’t respect my teacher
 I had a long-term substitute in sixth grade. In my opinion, this sub was clueless—he had no idea what he was doing. He was supposed to teach us about Southeast Asian history, but all I saw were white PowerPoint slides with paragraphs of black print on them, often passages directly pulled from the textbook. It was boring and stupid—the only thing that didn’t get snores from my class was a picture he showed us of a butchered pig. I had absolutely no respect for that teacher. He checked off every no-no in the book: boring classes, unfair grading, an unnecessarily hard test, and a ban on bathroom breaks.
@@ -133,7 +159,7 @@ If you’d rather try and talk to your teacher in-person, then come prepared wit
 Or: pretend you’re acting. You and your fellow actor are about to perform a skit. You play the calm and reasonable character who (miraculously) can easily hold in laughter and anger. Your colleague is the idiot. They say stupid things. But, as the calm one, you have to somehow guide your companion to a good conclusion.
 
 
-## How the hell do I talk about my mental health?
+## How do I talk about mental health?
 A very common reason for needing an extension is that you’re struggling with psychological health. It’s also probably the toughest reason, because it doesn’t feel solid—you can’t give your teacher a list of things you have to do this week, or explain why you find the assignment hard, or point to your own or a family member’s physical illness to show that homework isn’t your only priority. Mental health is just that—it’s mental. You can’t hold it. You don’t get a runny nose or a cough. It presents itself as exhaustion, apathy (not caring about anything), basically a heavy gray fog that’s settled into your head.
  
 What’s worse, a lot of people still don’t understand that mental health is real. You might have classmates going around joking about it, or rolling their eyes at any mention of depression or anxiety. Your family might have a “suck it up” attitude. That turns a lonely experience into an even lonelier one, and might make asking for help a terrifying possibility. 
@@ -191,6 +217,8 @@ Or maybe this homework just isn’t targeting your needs as a student. You want 
 
 There are other reasons, too, to wonder “why even bother?”. If you’re struggling with depression or any other mental health difficulty, then schoolwork can seem like the farthest thing from relevant (not to mention stimulating). 
 
+**fresher content exists in doc** consolidate some headers
 
+## Uhh . . . yeah I’m not sure this can be solved with an extension . . .
 
 ## What if they say no?
