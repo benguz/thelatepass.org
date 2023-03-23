@@ -403,6 +403,8 @@ pre[class*='language-'] {
   font-family: var(--mono) !important;
   margin: 0 0 var(--default-vertical-spacing) !important;
   white-space:pre-wrap;
+  word-break: break-word;
+  height: 100%;
 }
 
 pre[class*='language-'] .md-link {

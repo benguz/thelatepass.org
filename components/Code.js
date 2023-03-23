@@ -89,7 +89,8 @@ export function Code({ children, 'data-language': language }) {
             font-size: 15px;
           }
           pre {
-
+            white-space:pre-wrap;
+            word-break: break-word;
           }
         `}
       </style>
