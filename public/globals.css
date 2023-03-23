@@ -402,6 +402,7 @@ pre[class*='language-'] {
   line-height: 22px !important;
   font-family: var(--mono) !important;
   margin: 0 0 var(--default-vertical-spacing) !important;
+  white-space:pre-wrap;
 }
 
 pre[class*='language-'] .md-link {

@@ -6,64 +6,71 @@ description: ext
 
 # How to ask for an extension
 
-Why not just turn it in late?
-An extension is extra time to finish an assignment. You’ve probably heard of extensions in the form of “make-up work.” If you’re out sick for a few days, then you’re not expected to have all your completed homework the day you come back. As long as your teacher isn’t a psychopath, they’ll usually give you some time to finish up missing assignments. 
+## Extension = Extra Time. You might need it.
+[Jump to an email template!](#i-just-want-to-email)
+
+You'll usually get an extension  if you're out sick for a few days, but **that's not even close to the only reason you can't do your homework on time.**
  
-But sickness (missing class) is not the only reason you might not be able to do your homework on time. Sometimes the homework is just really confusing. Or you’re super busy. Or you’ve been helping your family clean out the house or shuttle siblings around. Or you’re just completely exhausted. 
+Sometimes the homework is just really confusing. Or you’re super busy. Or you’ve been helping your family clean out the house or shuttle siblings around. Or you’re completely exhausted. 
  
-Asking for an extension—a day or two extra on your assignment—can make your life a lot easier. Yes, you still have to do it eventually, but often a little extra time can make the work bearable. One step further from the gates of hell? 
+Asking for an extension—a day or two extra on your assignment—**can make your life a lot easier**. You still have to do the work, but a little extra time makes it bearable. 
   
-I (and all my friends in high school) would have never thought to ask for an extension. All those reasons I listed above—those are just reasons to turn in an assignment a little late. Maybe get a few points off. After all, why bother to go through the trouble of talking to the teacher? Here’s a few possibilities:
+I (and all my friends in high school) would have never thought to ask for an extension. All those reasons I listed above—those are just reasons to turn in an assignment a little late. Maybe get a few points off. After all, why bother to go through the trouble of talking to the teacher? 
 
-1. A few points can mean A LOT. They can determine whether you graduate on time. Or whether you qualify for your sports team. If you’re a student who is toeing the line with grades, an extension can make a big difference.
+1. A few points can mean A LOT. They can determine whether you graduate on time, qualify for your sports team, go into your final exam STRESSED (I need a 106% to get a B) or relaxed (I need a 5% to get a B).
 
-2. Your teacher will be less likely to give you the stink-eye when you turn it in.
+2. Your teacher will be less likely to give you the stink-eye when you turn it in. This builds [trust](https://waitwhythough.com/trust).
 
-3. You’re more likely to learn something from the assignment, since now you actually have time to think about it.
+3. You’re more likely to [learn something from the assignment](https://waitwhythough.com), since now you actually have time to think about it.
 
-4. Why not give yourself a little more control over what you have to do for school?
+4. **Why not give yourself a little more control over what you have to do for school?**
 
-## Ingredients
+## Extensions are like... um... Soup. 
 
-There are certain ingredients that will make your extension request more likely to be successful. If you have all of them, then you’re in good shape—barring, of course, strict and unpleasant teachers. If you don’t, then you might have to try some of our alternate methods!
+You need a few ingredients for a tasty, or, um, successful extension request. 
 
-**Ingredient #1:** Teachers like it when you ask for this stuff in person. That way they can see that your request is genuine and that you plan to follow through with completing the assignment by the new deadline. That being said, if this idea makes you want to crawl under a desk and hide, then you can always send an email instead.
+**Ingredient #1:** Teachers like it when you ask for this stuff in person. That way they'll know you're being genuine and can trust you to actually _do_ the assignment. If this idea makes you want to crawl under a desk and hide, then you can always [send an email](#i-just-want-to-email) instead.
 
-If you really just want to write an email (and you need some help), go here [link to “I just want to email . . .”].
+[I'm ready to ask in person!](#how-do-i-ask-in-person)
 
-If you think you can swing asking in person, and just want some guidance, go here [link to “How do I ask in person?”].
-
-**Ingredient #2:** You need to ask for an extension BEFORE the due date—if you ask it after it’s due, or an hour before, even the nicest teachers will roll their eyes. If you have a strict teacher (you know, the one with one squinty eye who is vocally counting down the years to retirement?), then you’d better give a few-days’ warning on your extension request. If you’re like “oh, SHIT, my paper is due TODAY (or yesterday, or a week ago),” then read this [link to “What if my assignment is due today?”].
+**Ingredient #2:** You need to ask for an extension BEFORE the due date—if you ask an hour before it's due, even the nicest teachers will roll their eyes. If you have a strict teacher (you know, the one with one squinty eye who is vocally counting down the years to retirement?), then you’d better give a few-days’ warning on your extension request. If you’re like “oh, SHIT, my paper is due TODAY (or yesterday, or a week ago),” [read this](#what-if-my-assignment-is-due-today-or-yesterday-or-last-week).
 
 **Ingredient #3:** You’ll have to explain to your teacher why you need an extension. To do this, you’ll need reasoning that isn’t too vague and dismissive (“I just need more time”) but that also isn’t a ten-page sob story (“oh my god Mrs. Parker, my dog died last week and my aunt is in the hospital and I’m having a mental health crisis and I have FOUR exams this week and . . .”). If your reason for needing an extension is anything like that of Mrs. Parker’s student, then your problem will not be solved with a 24-hour extension. Instead, think about getting some more serious academic support [link to “uh . . . I don’t think an extension will fix this” bit]. 
 
-
+Missing some ingredients? We've still [got you covered](#what-if-they-say-no). Strict teacher? [Been there](#my-teacher-doesnt-respect-me).
 
 ## I just want to email . . .
 
 Here is a form email you can use to ask your teacher for an extension:
 
-Dear [name of teacher, for example Ms./Mr. + their last name],
 
-I hope this email finds you well. My name is [your first and last name] and I am in your [class name] class. I am writing to ask for an extension on [assignment name], due on [due date of assignment]. Unfortunately, I am behind on this assignment because [1 or 2-sentence explanation of why you need an extension]. 
+```
+Dear [Mr./Ms./Mrs. teacher last name],
 
-I would like to be able to complete this assignment by [what you would like the new due date to be—ideally one or two days after the original due date]. I believe this extension would allow me the time I need to do my best work. Thank you for considering my request, and please let me know if there’s anything else I can do. 
+I am writing to ask for an extension on **[assignment name]** due [due date of assignment]. I am behind on this assignment because [1 or 2-sentence explanation of why you need an extension].
 
-Kind regards,
+I can complete this assignment by [the new due date you want—ideally 1-2 days after the original date].
+
+This extension will give me the time I need to [do my best work OR fully learn the material]. Thank you for considering it, and please let me know if there’s anything else I can do!
+
+Regards,
 [Your first and last name]
+```
 
+This is what your email might look like once you fill in the blanks:
 
-And this is what your email might look like once you fill in the blanks:
-
+```
 Dear Ms. Harrison,
 
-I hope this email finds you well. My name is April Maddigan and I am in your ELA 9 class. I am writing to ask for an extension on the To Kill A Mockingbird essay due on Monday. Unfortunately, I am behind on this assignment because I have my regional cross country meet on Saturday and have spent an unusual amount of time this week training. 
+I am writing to ask for an extension on the To Kill A Mockingbird essay due Monday. I am behind on this assignment because I have my regional cross country meet on Saturday and have spent an unusual amount of time this week training. 
 
-I would like to be able to complete the paper by Wednesday morning. I believe this extension would allow me the time I need to do my best work. Thank you for considering my request, and please let me know if there’s anything else I can do.
+I would like to be able to complete the paper by Wednesday morning. I believe this extension would allow me the time I need to do my best work. 
+
+Thank you for considering my request, and please let me know if there’s anything else I can do!
 
 Kind regards,
 April Maddigan
-
+```
 
 ## How do I ask in person?
 Step 1: Find a time to ask that won’t disrupt any classes. Right after class, before or after school, or during the teacher’s planning period are usually the best times.

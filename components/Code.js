@@ -88,6 +88,9 @@ export function Code({ children, 'data-language': language }) {
             border: none;
             font-size: 15px;
           }
+          pre {
+
+          }
         `}
       </style>
     </div>
