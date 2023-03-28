@@ -7,17 +7,12 @@ description: ext
 # How to ask for an extension
 
 ## Extension = Extra Time. You might need it.
-[Jump to an email template!](#i-just-want-to-email-.-.-.)
 
-You'll usually get an extension if you're out sick for a few days, but **that's not even close to the only reason you can't do your homework on time.**
- 
-Sometimes the homework is just really confusing. Or you’re super busy. Or you’ve been helping your family clean out the house or shuttle siblings around. Or you’re completely exhausted. 
- 
-Asking for an extension—a day or two extra on your assignment—**can make your life a lot easier**. You still have to do the work, but a little extra time makes it bearable. 
-  
-I (and all my friends in high school) would have never thought to ask for an extension. All those reasons I listed above—those are just reasons to turn in an assignment a little late. Maybe get a few points off. After all, why bother to go through the trouble of talking to the teacher? 
+This homework is impossible. Or school's busy. Or life's busy. [Jump to an email template.](#i-just-want-to-email)
 
-1. A few points can mean A LOT. They can determine whether you graduate on time, qualify for your sports team, go into your final exam STRESSED (I need a 106% to get a B) or relaxed (I need a 5% to get a B).
+Asking for an extension—a day or two extra on your assignment—**can make your life a lot easier**. Extensions make the work bearable. I (and all my friends in high school) never thought to ask for an extension. We just turned things in late or unfinished. After all, why bother?
+
+1. A few points can mean A LOT. Graduating on time, qualifying for your sports team, going into your final exam STRESSED (I need a 106% to get a B) or relaxed.
 
 2. Your teacher will be less likely to give you the stink-eye when you turn it in. This builds [trust](https://waitwhythough.com/trust).
 
@@ -25,11 +20,11 @@ I (and all my friends in high school) would have never thought to ask for an ext
 
 4. **Why not give yourself a little more control over what you have to do for school?**
 
-## Extensions are like... um... Soup. 
+## Extensions are like... Soup. 
 
 You need a few ingredients for a tasty, or, um, successful extension request. 
 
-**Ingredient #1: Ask in person.** Teachers will know you're being genuine and you'll have more respect for each other. If this makes you want to crawl under a desk and hide, you can always [send an email](#i-just-want-to-email-.-.-.) instead. [Ready to ask?](#how-do-i-ask-in-person)
+**Ingredient #1: Ask in person.** Teachers will know you're being genuine and you'll have more respect for each other. If this makes you want to crawl under a desk and hide, you can always [send an email](#i-just-want-to-email) instead. [Ready to ask?](#how-do-i-ask-in-person)
 
 **Ingredient #2: ask BEFORE the due date.** If you ask an hour before the work is due, even the nicest teachers will roll their eyes. [If you have a strict teacher](#my-teacher-doesnt-respect-me) (you know, the one with one squinty eye who is vocally counting down the years to retirement?), then you’d better give a few-days’ warning. If you’re like “oh, SHIT, my paper is due TODAY (or yesterday, or a week ago),” [read this](#what-if-it's-due-today-(or-yesterday-or-last-week)).
 
@@ -39,7 +34,7 @@ You need a few ingredients for a tasty, or, um, successful extension request.
 
 Missing some ingredients? We've still [got you covered](#what-if-they-say-no).
 
-## I just want to email . . .
+## I just want to email
 
 Here is a form email you can use to ask your teacher for an extension:
 
@@ -90,13 +85,13 @@ Step 3: Present yourself as calm and confident. If you’re one of those student
 
 ## What if it's due today (or yesterday? or last week??)
 
-If you’re asking for an extension on the day of, or even later, then you’re coming to a bargaining table with no chips. This is no reason to panic—it just means that you’ll have to work with your teacher slightly differently. Here are a few paths you can take:
+If you’re asking for an extension on the day of, or even later, then you’re coming to a bargaining table with no chips. This is no reason to panic—it just means that you’ll have to work with your teacher differently. Here are three options:
 
-**1.** Ask your teacher for advice. Talking to your teachers doesn’t have to be a combat situation—in a lot of cases, it’s perfectly reasonable to just explain your situation and ask what you can do to make it better. Be straight with them. Most teachers will recognize that you genuinely want to find a solution, and will meet you on your level.
+**1. Ask your teacher for advice**. Talking to your teachers doesn’t have to be a combat situation—in a lot of cases, it’s perfectly reasonable to just explain your situation and ask what you can do to make it better. Be straight with them. Most teachers will recognize that you genuinely want to find a solution, and will meet you on your level.
 
-**2.** If you’ve partially completed the assignment, turn in what you’ve done. Then ask for an extension on the rest of it. This gives you a way to bring at least one chip to the table!
+**2. Turn in what you've done so far** if you’ve gotten started. Ask for an extension on the rest of it! This gives you a way to bring at least one chip to the table!
 
-**3.** If the assignment is worth a lot of points, you can ask your teacher to adjust its weight on your final grade. Reactions to this idea will depend on the teacher, but it’s worth a shot if you’re worried about how much a late grade will affect your success in the class. This conversation might look like:
+**3. If the assignment is worth a lot of points**, you can ask your teacher to adjust its weight on your final grade. Reactions to this idea will depend on the teacher, but it’s worth a shot if you’re worried about how much a late grade will impact your success in the class. This conversation might look like:
 
 &nbsp;
 
@@ -117,54 +112,56 @@ Completing this assignment was a high priority, but I couldn't because [short re
 (If the language is more sophisticated than something your teacher would believe you wrote, make it your own... and add 1-2 typos.)
 
 
-## I don’t know how the hell to do this
+## This class makes no sense
 
 So I’ve looked at this assignment, I’ve thought about it, and I might as well just burn it because the instructions are gibberish.
 
-The fact that you’re browsing through a “How to Ask for an Extension” article means that part of you wants to try the assignment, or that you have no choice. Asking for an extension on homework like this is a good start, but one or two more days won’t magically give you the understanding you need to do it.
+The fact that you’re browsing through this page means that part of you wants to try the assignment, or that you have no choice. Asking for an extension on homework like this is a good start, but one or two more days won’t magically give you the understanding you need to do it.
 
 So you’ll have to ask for some help. 
 
-Luckily, asking for help works well with asking for an extension. It actually makes your extension request stronger, because it tells your teacher that you’re taking steps to complete it. Of course, there may be that one teacher who’s like “NO! I WON’T HELP YOU!” but lots of teachers like helping students. When you ask for a few extra days, you can say something along the lines of:
+Luckily, **asking for help makes your extension request stronger** because it shows your teacher that you’re taking steps to complete it. Of course, there may be that one teacher who’s like “NO! I WON’T HELP YOU!” but lots of teachers like helping students. When you ask for a few extra days, you can say something along the lines of:
 
-“Part of the reason I’m asking for an extension on this is that I’m struggling to complete it. I’ve read it, and I’ve tried this much [remember, you’re allowed to show them your progress before actually turning it in] but I don’t understand . . .”
+“Part of the reason I’m asking for an extension is I’m struggling to complete it. I’ve read it, and I’ve tried this much [remember, you’re allowed to show them your progress before actually turning it in] but I don’t understand . . .”
 
-If your teacher says that they won’t help, back off. It’s not worth getting frustrated with them or shouting “fuck you!” and getting detention. Teachers are there to help students, and if they don’t, then that’s their problem, not yours. Ask someone else! Most school buildings have more than one teacher for each subject area. If your ELA 9 teacher doesn’t want to help you understand what the “introduction” part of an essay is, then find another ELA 9 teacher, or the ELA 10 teacher, and ask them. Or if you’re on good terms with your history teacher, ask them (historians have to write too!).  Not everyone will be grumpy.
+If your teacher says that they won’t help, damn. It might not be worth flipping over a desk and getting detention. Fingers crossed there's someone else in the building you can ask! If your ELA 9 teacher doesn’t want to help you understand what an "argumentative thesis" is, find another ELA 9 teacher, or the ELA 10 teacher, or the history teacher, or, honestly, the theater kid. Even Khan Academy does English help now.
 
 
-## My teacher doesn’t respect me
+## I don't respect them, they don't respect me
 Asking for an extension may seem like a recipe for disaster if you and your teacher operate in entirely different dimensions. Your teacher is in their world, grading homework, maybe being serious all the time, and having the problems of your average taxpayer but not the problems of a 17-year-old. Who’s to say that your teacher will take you and your life seriously?  Maybe they’ve even shown their disinterest in the past—your jokes in class are “disruptive” rather than funny, or your nodding off is “disrespectful” rather than just being tired. It’s amazing how many meaningless teacher words start with “dis.”
 
-Anyway, the point is that you have faults (or maybe just a personality) that you think you’d have to “fix” before your teacher respects you enough to give you an extension. This may be the case—it’s always possible that your teacher has a bone to pick and just won’t treat you well no matter how nice or serious you are now. Maybe they’ll laugh or roll their eyes. If that happens, then take a look at [what if they say no?]. 
+Anyway, the point is that you have faults (or maybe just a personality) that you think you’d have to “fix” before your teacher respects you enough to give you an extension. This may be the case—it’s always possible that your teacher has a bone to pick and just won’t treat you well no matter how nice or serious you are now. Maybe they’ll laugh or roll their eyes. 
  
 But there are two good reasons for your teacher to say yes, even if they find you annoying and reprehensible:
 
-Teachers have way too much work to do. Let’s face it, one of those taxpayer problems is that they have mounds of papers to grade, taxes to file, meeting to attend, etc. If they give you an extension, then they’re giving themselves one too. They won’t have to deal with your homework right away.
+**Teachers have way too much work to do**. Let’s face it, one of those taxpayer problems is that they have mounds of papers to grade, taxes to file, meeting to attend, etc. If they give you an extension, then they’re giving themselves one too. They won’t have to deal with your homework right away. Plus, having students care about school can make them feel better about all of this, especially if they often get the impression that no one listens to them.
 
-If you ask for an extension seriously (without a cocky grin or the posture of a hunchback), then your teacher will get the message that you’re interested in their class and in learning. Teachers are human. And they’re not paid much in the U.S., so usually they’ve chosen their job because they genuinely want to work with students. Asking for an extension on your assignment instead of turning it in late tells them that you want to work with them too.
+If you ask for an extension seriously (without a cocky grin or the posture of a hunchback), **your teacher will get that you’re interested in their class and in learning**. Teachers are human. They’ve usually chosen their job because they want to work with students. Asking for an extension on your assignment instead of turning it in late tells them that you want to work with them too.
  
-Also—there’s always the possibility that your teacher actually will understand.
- 
-**consolidate these two sections**
+Also—there’s always the possibility that your teacher will understand.
 
-## I don’t respect my teacher
-I had a long-term substitute in sixth grade. In my opinion, this sub was clueless—he had no idea what he was doing. He was supposed to teach us about Southeast Asian history, but all I saw were white PowerPoint slides with paragraphs of black print on them, often passages directly pulled from the textbook. It was boring and stupid—the only thing that didn’t get snores from my class was a picture he showed us of a butchered pig. I had absolutely no respect for that teacher. He checked off every no-no in the book: boring classes, unfair grading, an unnecessarily hard test, and a ban on bathroom breaks.
+```
+I had a long-term sub in sixth grade. In my opinion, he had no idea what he was doing. He was supposed to teach us about Southeast Asian history, but all I saw were white PowerPoint slides with paragraphs of black text copy-pasted from the textbook. The only slide that wasn't met with snores was a picture he showed us of a butchered pig. He checked off every no-no in the book: boring classes, unfair grading, an unnecessarily hard test, and a ban on bathroom breaks.
 
-It’s easy to get mad at a teacher like this. If you think you might lose your temper while asking for an extension, either because you don’t respect your teacher or because you know you lose your temper frequently, there are two possibilities.
+I had absolutely no respect for that teacher. 
+```
+
+**If you think you might lose it** asking for an extension, you could just [write an email](#i-just-want-to-email). If you’re emailing, you can be careful with your words. and if you need to calm down after reading your teacher’s response, you can do that. 
  
-You could just write an email. If you’re emailing, you can be careful with your words. It’s also asynchronous, so if you need to calm down after reading your teacher’s response, you can do that. If you want email help, read this.
- 
-If you’d rather try and talk to your teacher in-person, then come prepared with tricks. If your teacher says something you don’t like, pretend to think about it. Take a deep breath—count to four on the inhale, six on the exhale. Maybe say “hmm” to keep them from thinking you’re about to lose it. Then, once you’ve cleared your head a little, choose your words carefully. See “what if they say no?” for more on this.
+If you’d rather try and talk to your teacher in-person, come prepared: If your teacher says something you don’t like, pretend to think about it. Take a deep breath—count to four on the inhale, six on the exhale. Maybe say “hmm” to keep them from thinking you’re about to lose it. 
  
 Or: pretend you’re acting. You and your fellow actor are about to perform a skit. You play the calm and reasonable character who (miraculously) can easily hold in laughter and anger. Your colleague is the idiot. They say stupid things. But, as the calm one, you have to somehow guide your companion to a good conclusion.
 
 
-## How do I talk about mental health?
+## Can I talk about mental health?
 A very common reason for needing an extension is that you’re struggling with psychological health. It’s also probably the toughest reason, because it doesn’t feel solid—you can’t give your teacher a list of things you have to do this week, or explain why you find the assignment hard, or point to your own or a family member’s physical illness to show that homework isn’t your only priority. Mental health is just that—it’s mental. You can’t hold it. You don’t get a runny nose or a cough. It presents itself as exhaustion, apathy (not caring about anything), basically a heavy gray fog that’s settled into your head.
  
 What’s worse, a lot of people still don’t understand that mental health is real. You might have classmates going around joking about it, or rolling their eyes at any mention of depression or anxiety. Your family might have a “suck it up” attitude. That turns a lonely experience into an even lonelier one, and might make asking for help a terrifying possibility. 
 
+```
+True story:
 “A hispanic first gen student felt like he couldn't talk about or allude to mental health issues in class. He took an AP class where the teacher was notoriously mean. In a low point for his mental health, he plagiarized an essay. The teacher ripped it up in front of him in class, making him cry. He never cries.”
+```
 
 But remember, if you ask for an extension, you’re asking for help on an assignment. On your workload. Not on your mental health itself. Which means that the explanation you give doesn’t need to go into detail—you just have to give your teacher a vague idea ofwhat they need to know to vaguely understand what’s going on. This explanation is somewhere in between what you might tell a librarian after returning a book late, and what you might tell a police officer after your friend goes missing.
  
@@ -178,7 +175,7 @@ Your teacher needs some explanation, but not a play-by-play account. Here are so
 I’m wondering whether I could take an extra day on this assignment. I’ve been dealing with some mental health difficulties, and I’m having a hard time staying on top of my workload. A little extra time would really help.
 ```
 
- ```
+```
 I’m wondering whether I could take an extra day on this assignment. I’ve had a really hard time finding the motivation to do my work lately, and I’m a bit behind on some other assignments. A little extra time would really help.
 ```
  
@@ -199,7 +196,7 @@ If you’re a student who rarely needs help getting all their work done, then yo
  
 Maybe you’re thinking that, if you ask for an extension now, you’ll be tempted later to take more and more accommodations, until you’re a flat-out rubbish student. To be frank, this is ridiculous. “Slippery slopes” might be dangerous with alcohol: if you drink a lot, then your brain starts learning to crave alcohol. Addictions involve chemical changes in your brain that make your decision-making skills—your ability to “say no” later—worse over time. 
  
-Not so with extensions. Two more days on a paper does not change your brain chemistry. Instead, it makes you less exhausted. Every future deadline will be a new decision, and you will approach that decision with the same diligence and care that you have now. What makes you a good student is not that you’ve never asked for help—it’s that you care about and learn the material. Just ask for the damn extension.
+Not so with extensions. **Two more days on a paper does not change your brain chemistry**. Instead, it makes you less exhausted. Every future deadline will be a new decision, and you will approach that decision with the same diligence and care that you have now. What makes you a good student is not that you’ve never asked for help—it’s that you care about and learn the material. Just ask for the damn extension.
 
 
 ## This is slightly terrifying
@@ -207,6 +204,8 @@ Not so with extensions. Two more days on a paper does not change your brain chem
 Depending on your teacher and classmates, asking for an extension might be scary. I’ve had teachers who were mean, loud, or just really unpredictable. They’d be helpful and patient one moment, and yelling the next. I’ve also had classmates that are constantly looking to tease a “try-hard” or “goody two-shoes.” This puts you in a position of constantly having to prove that you don’t care about school—and asking for an extension definitely won’t help with that.
 
 If you need some extra time but want to avoid these situations entirely, just send an email [link to email stuff]. Then you don’t have to deal directly with a mean teacher or risk being caught by mean students.
+
+That being said, teachers are less likely to be mean to a student one-on-one. Often they just use yelling and strictness as a “classroom management technique,” [link] which won’t transfer to individual conversations.
 
 
 ## Why even bother?
@@ -219,6 +218,25 @@ There are other reasons, too, to wonder “why even bother?”. If you’re stru
 
 **fresher content exists in doc** consolidate some headers
 
-## Uhh . . . yeah I’m not sure this can be solved with an extension . . .
+## An extension is not gonna solve this
+
+Sometimes shit happens, and you need some help getting through it. Depending on the severity of the situation, an extension on one or two assignments might not cut it. It’s still good to ask for these, but you’re also allowed to seek out more serious support.
+
+I had a friend in high school who lived alone, without either of his parents or any financial support. The authorities let him stay in his apartment as a minor, but he had to figure everything else out by himself. As you can probably tell, this was a disastrous situation for him to be in, and he needed any help he could get. 
+
+My friend decided to talk to one of our science teachers. Our teacher was able to help him find a job, and also give him some emotional support along the way. She helped my friend communicate his needs to our other teachers and to the school’s administration, so that he got any extensions and help on homework that he needed. Of course, none of this was a complete solution, but my friend was able to get the food he needed to survive, and even graduate with good grades.
+
+This was a good strategy. If you’re in a tough place, then talking to a teacher you trust can make your life a little easier. You can also go straight to an administrator, if that’s something you’re comfortable with. If nothing else, they can communicate to your other teachers, your guidance counselor, etc. that you need some flexibility. This will make getting extensions and other kinds of help an easier process.
+
+How much you share is, of course, up to you. Remember that most school employees are mandatory reporters, which means that if they learn that a student is in danger (because of child abuse, an abusive relationship, unsafe living conditions, etc.) then they are required to tell the police. Depending on what kind of help you want, this might be a good thing. But in the end, it’s up to you how much you want your teachers to know about you. For more information on seeking this kind of help, read [link to another resource].
+
 
 ## What if they say no?
+
+If you're really sick and tired of this, fuck.
+
+Maybe, maybe there's a way to take the high road. Listen to their reasoning. Ask them why not. Share your emotions, tell them this is hurtful, even if you think they don't deserve to know.
+
+Write down the conversation. Share your frustration with friends. If this is about graduating, or about college admissions, this is the type of stuff you can talk to your principal about or write in your additional information section. Maybe it can even be an essay.
+
+If you're feeling malicious... one option: If your state is a [one-party consent state](https://en.wikipedia.org/wiki/Telephone_call_recording_laws#One-party_consent_states), you may be able to record your conversation with your teacher. IT IS STILL UNETHICAL TO SHARE. Do this **only if you're worried about being harrassed**. Now, you'll have something you can show to another adult in a conversation about why your grade is low, why you're cutting that class (because you don't feel safe in it).
