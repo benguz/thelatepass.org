@@ -210,13 +210,13 @@ That being said, teachers are less likely to be mean to a student one-on-one. Of
 
 ## Why even bother?
 
-Totally fair. Homework can seem completely pointless sometimes (and pretty often it is completely pointless), and if you’re not one of those students who does all their work because they’re afraid of failure, then the reasons to do it can be a hard sell. There are lots of vaguely unconvincing reasons I could give for why you should do schoolwork, but it might be easier to argue based on subject. To read about why this class and this assignment is worthwhile (or, at least, why you should pretend it’s worthwhile), click around on this website [link].
+Totally fair. Homework can seem completely pointless sometimes (and sometimes it is completely pointless). You might be curious about what you might gain from an assignment that just seems silly— if so, check out [link]. Or, maybe this homework just isn’t targeting your needs as a student. You want to do well in school, but you’re either bored as hell (if this is the case, try this [I think we’re planning on having stuff for this]) or struggling so much that you don’t know where to begin (if this is the case, try this).
 
-Or maybe this homework just isn’t targeting your needs as a student. You want to do well in school, but you’re either bored as hell (if this is the case, try this [I think we’re planning on having stuff for this]) or struggling so much that you don’t know where to begin (if this is the case, try this).
+But it’s also possible that your problem runs a little deeper. School is based on an agreement: **you come to class and turn in homework, and in return you get points**. These points can lock in your grades, what you do after high school (sometimes), and how people see you. What if this system breaks down? What if you start seeing points as just points—not really as a measure of anything, and definitely not as important? If you’re not already motivated to do your assignments because you want to learn, then getting a few lousy points out of it might not make you feel much better.
 
-There are other reasons, too, to wonder “why even bother?”. If you’re struggling with depression or any other mental health difficulty, then schoolwork can seem like the farthest thing from relevant (not to mention stimulating). 
+This is completely legitimate. In fact, the work-for-points system is more of an open question than you think. There is a lot of debate over the best way to teach students, and some countries (like Finland) have become famous for their rejection of competition and measurement-based education. Your school is not perfect, and if you think it could do a better job of keeping you and your peers engaged and learning, you’re probably right. 
 
-**fresher content exists in doc** consolidate some headers
+The good news is that you’re not as powerless as you might think. Some of the most successful education reforms have come about because of students. It’s true that you have to _go_ to school—but you have the right to push for changes while you're there. Using resources like these and learning how to identify and advocate for your needs as a student can help you (your peers, your teachers, and the school system) make education better.
 
 ## An extension is not gonna solve this
 
