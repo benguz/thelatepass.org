@@ -6,17 +6,15 @@ description: ext
 
 # How to ask for an extension
 
-## Extension = Extra Time. You might need it.
+**Extension = extra time on your assignment**. You might need it. Maybe the homework looks impossible, school's busy, or... life. [Jump to an email template.](#i-just-want-to-email)
 
-This homework is impossible. Or school's busy. Or life's busy. [Jump to an email template.](#i-just-want-to-email)
+I (and all my friends in high school) never thought to ask for an extension. We just turned things in late or unfinished. After all, why bother?
 
-Asking for an extension—a day or two extra on your assignment—**can make your life a lot easier**. Extensions make the work bearable. I (and all my friends in high school) never thought to ask for an extension. We just turned things in late or unfinished. After all, why bother?
+1. A few points can mean A LOT. Graduating on time, qualifying for your sports team, going into your final exam relaxed or STRESSED (I need a 206% to get a B).
 
-1. A few points can mean A LOT. Graduating on time, qualifying for your sports team, going into your final exam STRESSED (I need a 106% to get a B) or relaxed.
+2. By proving you _want_ to do better in the class, you and your teacher might gain mutual respect (maybe make non-hostile eye contact sometimes). [Class will suck less](https://waitwhythough.com/trust) and they might just be there when you really need help.
 
-2. Your teacher will be less likely to give you the stink-eye when you turn it in. This builds [trust](https://waitwhythough.com/trust).
-
-3. You’re more likely to [learn something from the assignment](https://waitwhythough.com), since now you actually have time to think about it.
+3. You’re more likely to [learn something from the assignment](https://waitwhythough.com) since you actually have time to think about it.
 
 4. **Why not give yourself a little more control over what you have to do for school?**
 
@@ -240,3 +238,7 @@ Maybe, maybe there's a way to take the high road. Listen to their reasoning. Ask
 Write down the conversation. Share your frustration with friends. If this is about graduating, or about college admissions, this is the type of stuff you can talk to your principal about or write in your additional information section. Maybe it can even be an essay.
 
 If you're feeling malicious... one option: If your state is a [one-party consent state](https://en.wikipedia.org/wiki/Telephone_call_recording_laws#One-party_consent_states), you may be able to record your conversation with your teacher. IT IS STILL UNETHICAL TO SHARE. Do this **only if you're worried about being harrassed**. Now, you'll have something you can show to another adult in a conversation about why your grade is low, why you're cutting that class (because you don't feel safe in it).
+
+## What else can I extend?
+
+You don't have to take exams at the scheduled time. [examples] It really, really doesn't hurt to ask.
