@@ -457,6 +457,90 @@ export const TYPE_MAP = {
         `}
       </style>
     </svg>
+  ),
+  deer: (
+    <object data="https://uploads-ssl.webflow.com/553594cac74ffb7d0251253b/63b4edcb92ba880f8dfa1650_9801478_woodlands_deer_stag_animal_wild_icon.svg" width="90" height="90" alt="deer">
+    <style jsx>
+        {`
+          .b {
+            fill: var(--light);
+          }
+          .c {
+            fill: var(--dark);
+          }
+        `}
+      </style>
+    </object>
+  ),
+  tree: (
+    <object data="https://uploads-ssl.webflow.com/553594cac74ffb7d0251253b/63b4ee8ef6d3907c862a9a7a_8808910_forest_tree_nature_location_pin_icon.svg" width="90" height="90" alt="deer">
+    <style jsx>
+        {`
+          .b {
+            fill: var(--light);
+          }
+          .c {
+            fill: var(--dark);
+          }
+        `}
+      </style>
+    </object>
+  ),
+  clean: (
+    <object data="https://uploads-ssl.webflow.com/553594cac74ffb7d0251253b/63b4ed96f645d1302d9c8809_7766367_hand_sanitize_coronavirus_gel_hygiene_icon.svg" width="90" height="90" alt="deer">
+    <style jsx>
+        {`
+          .b {
+            fill: var(--light);
+          }
+          .c {
+            fill: var(--dark);
+          }
+        `}
+      </style>
+    </object>
+  ),
+  cal: (
+    <object data="https://uploads-ssl.webflow.com/553594cac74ffb7d0251253b/63b4ef0a4fd2271efb62f358_407950_calendar_date_month_icon.svg" width="90" height="90" alt="deer">
+    <style jsx>
+        {`
+          .b {
+            fill: var(--light);
+          }
+          .c {
+            fill: var(--dark);
+          }
+        `}
+      </style>
+    </object>
+  ),
+  camp: (
+    <object data="https://uploads-ssl.webflow.com/553594cac74ffb7d0251253b/63b4ee35ef6aaf43faeef783_6506720_camp_camping_outdoor_outdoors_tent_icon.svg" width="90" height="90" alt="deer">
+    <style jsx>
+        {`
+          .b {
+            fill: var(--light);
+          }
+          .c {
+            fill: var(--dark);
+          }
+        `}
+      </style>
+    </object>
+  ),
+  hike: (
+    <object data="https://uploads-ssl.webflow.com/553594cac74ffb7d0251253b/63b4ee0113a7d9f240f513d4_2588853_activity_hiking_recreation_travel_trekking_icon.svg" width="90" height="90" alt="deer">
+    <style jsx>
+        {`
+          .b {
+            fill: var(--light);
+          }
+          .c {
+            fill: var(--dark);
+          }
+        `}
+      </style>
+    </object>
   )
 };
 
