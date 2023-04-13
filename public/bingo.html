@@ -12,9 +12,20 @@ body {
     padding: 40px 0;
 }
 
+header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin: 0;
+}
+
 .bingo-board {
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
     grid-gap: 10px;
     width: 100%;
     max-width: 800px;
@@ -54,10 +65,15 @@ body {
     transform: rotateX(180deg);
     background-color: #209CEE;
     color: #fff;
+    font-size: 0.8rem;
 }
 
 .front {
     cursor: pointer;
+}
+
+.bingo-item:hover {
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
 }
 
 .bingo-item:hover .front {
@@ -78,10 +94,14 @@ body {
     }
 }
 
+
   </style>
 
 </head>
 <body>
+        <header>
+        <h1>My school has way too much...</h1>
+    </header>
   <script>
     document.addEventListener('DOMContentLoaded', () => {
     const bingoItems = document.querySelectorAll('.bingo-item');
@@ -96,6 +116,7 @@ body {
     });
 });
   </script>
+    
     <div class="bingo-board">
         <!-- Add your bingo board items here -->
         <div class="bingo-item" data-link="https://thelatepass.org">
