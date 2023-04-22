@@ -20,6 +20,7 @@ export function TopNav({ children }) {
       <nav>
         <div className="flex top-row">
           <Link href="/" className="flex">
+    <Link>
           <button
             className="hamburger"
             onClick={() => setShowMobileNav((o) => !o)}
