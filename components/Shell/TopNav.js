@@ -20,7 +20,7 @@ export function TopNav({ children }) {
       <nav>
         <div className="flex top-row">
           <Link href="/" className="flex">
-      <div height="37" width="180"> <text style="font-size: 25;">Doorstopped</text></svg>
+      <div height="37" width="180"> <text style="font-size: 25;">Doorstopped</text></div>
     </Link>
           <button
             className="hamburger"
