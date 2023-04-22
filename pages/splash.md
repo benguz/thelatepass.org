@@ -12,6 +12,7 @@ description: Feasible changes.
 - [Change 101](https://docs.google.com/document/d/1kBjqRGDganh04WiXWq3Z8ZQQIzilZj1Zh2c-2Tmu2PU/edit?usp=sharing)
 - [Leverage your data](https://thelatepass.org/time)
 - [Get cash grants to make food](https://thelatepass.org/programs/eat)
+- [Make your stugov legit](https://thelatepass.org/stuco)
 - [Bring backup](https://thelatepass.org/programs/phones) 
 
 Get notified when we launch more programs! contact [ben@onefact.org](mailto:ben@onefact.org) to get on the mailing list.
