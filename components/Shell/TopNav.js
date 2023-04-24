@@ -20,7 +20,7 @@ export function TopNav({ children }) {
       <nav>
         <div className="flex top-row">
           <Link href="/" className="flex">
-    <svg title="Markdoc" width="112" height="37" viewBox="0 0 112 37" fill="none" xmlns="http://www.w3.org/2000/svg" class="jsx-756af7f39ec730b3"></svg>
+    <svg title="Markdoc" width="112" height="37" viewBox="0 0 112 37" fill="none" xmlns="http://www.w3.org/2000/svg"></svg>
 </Link>
           <button
             className="hamburger"
